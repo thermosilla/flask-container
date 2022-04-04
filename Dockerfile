@@ -1,4 +1,5 @@
 FROM ubuntu:latest
+MAINTAINER Tomás Hermosilla "thermosilla@gmail.com"
 RUN apt update -y && apt install -y python3-pip python3-dev libpq-dev
 COPY requirements.txt ./app/requirements.txt
 WORKDIR /app
