@@ -44,7 +44,7 @@ psycopg2==2.9.3
 py==1.11.0
 pycparser==2.21
 PyJWT==2.3.0
-pylint==2.13.5
+pylint==2.13.7
 pylint-flask==0.6
 pylint-flask-sqlalchemy==0.2.0
 pylint-plugin-utils==0.7
