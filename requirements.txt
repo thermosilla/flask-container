@@ -12,7 +12,7 @@ cryptography==37.0.1
 dill==0.3.4
 dnspython==2.2.1
 dominate==2.6.0
-email-validator==1.2.0
+email-validator==1.2.1
 Flask==2.1.2
 Flask-BabelEx==0.9.4
 Flask-Bootstrap==3.3.7.1
