@@ -1,4 +1,4 @@
-alembic==1.7.5
+alembic==1.8.0
 astroid==2.11.6
 attrs==21.4.0
 Babel==2.10.3
