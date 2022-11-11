@@ -4,3 +4,12 @@ kind: Namespace
 metadata: 
   name: app
 ---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: app-Deployment
+  namespace: app
+  labels:
+    app: flask
+  spec:
+    replicas: 1
