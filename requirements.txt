@@ -43,7 +43,7 @@ mkdocs-material-extensions==1.1.1
 more-itertools==9.0.0
 msal==1.21.0
 onetimepass==1.0.1
-packaging==21.3
+packaging==23.0
 passlib==1.7.4
 platformdirs==3.0.0
 pluggy==1.0.0
