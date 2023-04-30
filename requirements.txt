@@ -1,4 +1,4 @@
-alembic==1.8.1
+alembic==1.10.4
 astroid==2.15.4
 attrs==22.1.0
 bcrypt==4.0.1
