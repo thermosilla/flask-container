@@ -35,7 +35,7 @@ mccabe==0.7.0 ; python_version >= '3.6'
 mkdocs-material-extensions==1.1.1 ; python_version >= '3.7'
 msal==1.22.0
 passlib==1.7.4
-platformdirs==3.8.0 ; python_version >= '3.7'
+platformdirs==3.8.1 ; python_version >= '3.7'
 psycopg2-binary==2.9.6
 pycparser==2.21
 pyjwt[crypto]==2.7.0 ; python_version >= '3.7'
