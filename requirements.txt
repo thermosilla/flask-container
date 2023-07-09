@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-astroid==2.15.5 ; python_full_version >= '3.7.2'
+astroid==2.15.6 ; python_full_version >= '3.7.2'
 bcrypt==4.0.1
 bleach==6.0.0
 blinker==1.6.2 ; python_version >= '3.7'
