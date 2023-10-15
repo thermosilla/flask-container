@@ -18,7 +18,7 @@ flask-login==0.6.2
 flask-mailman==0.3.0
 flask-nav==0.6
 flask-principal==0.4.0
-flask-security-too[common,fsqla]==5.2.0
+flask-security-too[common,fsqla]==5.3.1
 flask-sessions==0.1.5
 flask-sqlalchemy==3.0.5
 flask-wtf==1.1.1
